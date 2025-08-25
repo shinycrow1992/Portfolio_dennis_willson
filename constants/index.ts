@@ -259,25 +259,25 @@ export const OTHER_SKILL = [
 
 export const PROJECTS = [
   {
-    title: "Modern Next.js 14 Portfolio",
+    title: "Full Stack Framework for Robotics",
     description:
-      'Embark on a journey through my professional evolution with the "Modern Next.js Portfolio" - a dynamic showcase of my skills, experiences, and passion for web development. Crafted with precision and powered by Next.js, this portfolio is more than just a static display; it\'s an immersive experience that reflects the cutting edge of modern web technologies.',
-    image: "/projects/project-1.png",
-    link: "https://example.com",
+      'Designed with ROS in mind. ROS is a flexible framework used in the development of robotic systems. It provides libraries, tools, and a set of conventions for building and managing robot applications. When something is described as being "designed with ROS in mind," it indicates that the system or product has been developed to be compatible with ROS-based robotic systems.',
+    image: "/projects/project-1.jpg",
+    link: "https://github.com/shinycrow1992/Full-Stack-Framework-for-Robotics",
   },
   {
-    title: "Interactive Cards Portfolio",
+    title: "Auto Smart Factory",
     description:
-      'Step into the extraordinary world of my professional journey through the "Interactive Cards Portfolio" - an innovative and visually captivating platform that redefines the traditional portfolio experience. Ditching the conventional static layout, this portfolio leverages interactive cards to showcase my skills, projects, and personality in an engaging and dynamic manner.',
-    image: "/projects/project-2.png",
-    link: "https://example.com",
+      'An "Auto Smart Factory" refers to an advanced manufacturing environment that utilizes a combination of automation, artificial intelligence (AI), machine learning (ML), Internet of Things (IoT), and robotics to optimize and streamline production processes. The term is often used to describe factories where automation is the central component of operations, but enhanced with smart technologies for improved efficiency, flexibility, and decision-making.',
+    image: "/projects/project-2.jpg",
+    link: "https://github.com/shinycrow1992/Auto-Smart-Factory",
   },
   {
-    title: "Space Themed Website",
+    title: "Robotics Roadmap Develop",
     description:
-      'Embark on an interstellar journey with my "Space Themed Website", a mesmerizing space-themed website that invites you to explore the cosmic wonders beyond our world. Immerse yourself in an awe-inspiring digital experience that blends cutting-edge design with the mysteries of the universe.',
-    image: "/projects/project-3.png",
-    link: "https://example.com",
+      'A Robotics Roadmap Development refers to the strategic planning and development of a long-term vision for robotics technology, applications, and integration in a specific industry or organization. This roadmap outlines key milestones, goals, and innovations in robotics, defining the timeline, scope, and technologies that will shape the future of automation and robotics. ',
+    image: "/projects/project-3.jpg",
+    link: "https://github.com/shinycrow1992/-Robotics-Roadmap-Develop",
   },
 ] as const;
 
@@ -331,14 +331,9 @@ export const FOOTER_DATA = [
         link: "https://youtube.com",
       },
       {
-        name: "Learning about me",
-        icon: null,
-        link: "https://example.com",
-      },
-      {
         name: "Contact Me",
         icon: null,
-        link: "mailto:contact@example.com",
+        link: "mailto:shinycrow1992@gmail.com",
       },
     ],
   },
@@ -360,5 +355,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/sanidhyy/space-portfolio",
+  sourceCode: "https://github.com/shinycrow1992/Portfolio_dennis_willson",
 };
